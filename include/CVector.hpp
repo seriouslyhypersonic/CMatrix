@@ -17,8 +17,8 @@
 #endif
 #endif
 
-#include "CMatrix.h"
-#include "CTensor.h"
+#include "CMatrix.hpp"
+#include "CTensor.hpp"
 
 namespace CMatrixLib
 {

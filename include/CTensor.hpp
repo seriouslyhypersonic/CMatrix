@@ -20,7 +20,7 @@
 #ifndef CTENSOR
 #define CTENSOR
 
-#include <CMatrix.h>
+#include <CMatrix.hpp>
 
 namespace CMatrixLib
 {

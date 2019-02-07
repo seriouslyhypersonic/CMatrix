@@ -2,7 +2,7 @@
  * Copyright (c) André Carvalho
  */
 #include <stdafx.h>
-#include <CMatrix.h>
+#include <CMatrix.hpp>
 
 #ifndef __GNUC__
 #define _CRTDBG_MAP_ALLOC

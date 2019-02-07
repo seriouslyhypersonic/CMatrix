@@ -27,9 +27,9 @@ endif ()
 # CMatrix
 # ------------------------------------------------------------------------------
 set(HEADERS
-        include/CMatrix.h
-        include/CTensor.h
-        include/CVector.h
+        include/CMatrix.hpp
+        include/CTensor.hpp
+        include/CVector.hpp
         include/resource.h
         include/stdafx.h
         include/targetver.h)

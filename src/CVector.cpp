@@ -2,7 +2,7 @@
  * Copyright (c) André Carvalho
  */
 #include <stdafx.h>
-#include <CVector.h>
+#include <CVector.hpp>
 
 #ifndef __GNUC__
 #define _CRTDBG_MAP_ALLOC

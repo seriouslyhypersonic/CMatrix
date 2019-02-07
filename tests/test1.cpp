@@ -8,7 +8,7 @@
 #include <iostream>
 #include <string>
 
-#include <CMatrix.h>
+#include <CMatrix.hpp>
 
 #define PRINT_MATRIX(M) printMatrix(#M, M)
 
