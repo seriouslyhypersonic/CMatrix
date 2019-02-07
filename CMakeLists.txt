@@ -26,7 +26,6 @@ endif ()
 # ------------------------------------------------------------------------------
 # CMatrix
 # ------------------------------------------------------------------------------
-set(CMATRIX_INCLUDE_DIRS ${CMAKE_CURRENT_SOURCE_DIR}/include)
 
 set(HEADERS
         include/CMatrix.h
