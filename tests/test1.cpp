@@ -20,8 +20,6 @@ void printMatrix(const char* str, Matrix matrix)
 
 int main()
 {
-//    using CMatrixLib::T;
-
     double alpha = 1.0;
     double beta = 2.0;
 
