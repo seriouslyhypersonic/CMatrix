@@ -23,6 +23,11 @@ if (MKL_FOUND)
     message(STATUS "    MKL libraries                ${MKL_LIBRARIES}")
 endif ()
 
+# ------------------------------------------------------------------------------
+# CMatrix
+# ------------------------------------------------------------------------------
+set(CMATRIX_INCLUDE_DIRS NAMES ${CMAKE_CURRENT_SOURCE_DIR}/include)
+
 set(HEADERS
         include/CMatrix.h
         include/CTensor.h
