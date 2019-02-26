@@ -33,7 +33,7 @@ int main()
     PRINT_MATRIX(mC);
 
     // Useful for benchmarking
-    mC = alpha * T(mA) * mB + beta * mC;
+    mC = alpha * T(mA) * T(mB) + beta * mC;
 
     PRINT_MATRIX(mC);
 }
